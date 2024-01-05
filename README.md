@@ -1,4 +1,4 @@
-## Case Study Of iPhone Purchases 
+###### Case Study Of iPhone Purchases 
 
 
 This repository explores the use of K-Nearest Neighbors (KNN) for predicting customer purchase behavior in the context of iPhone sales. It combines machine learning, data analysis, and visualization.
