@@ -15,3 +15,7 @@ This repository explores the use of K-Nearest Neighbors (KNN) for predicting cus
  - Jupyter notebook (.ipynb file) details the complete code and analysis, while a Word document (.docx) provides a breakdown of the end-to-end process, challenges faced, and key takeaways.
 
 This project showcases the potential of KNN in understanding customer purchase behavior and making informed business decisions. The interactive Tableau dashboards and detailed documentation make the insights easily accessible and actionable.
+
+
+### Tableau Dashboard -
+https://public.tableau.com/app/profile/shruti.thorle/viz/iPhonePurchaseAnalysis/Dashboard1
